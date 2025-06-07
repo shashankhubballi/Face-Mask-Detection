@@ -219,6 +219,5 @@ Feel free to **file a new issue** with a respective title and description on the
 You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 
-## :eyes: License
-MIT © [Chandrika Deb](https://github.com/./Face-Mask-Detection/blob/master/LICENSE)
+
 
